@@ -16,6 +16,5 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
-<br> <a href="https://www.linkedin.com/in/ex1tx64" target="_blank">
 <img align="center" src="https://img.shields.io/badge/-Jhosefx-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a> </br>
