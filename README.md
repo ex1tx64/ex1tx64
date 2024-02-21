@@ -1,7 +1,7 @@
 ![](https://github.com/Jhosefx/Jhosefx/blob/main/header_.png)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+José+Guilherme;I'm+22+years+old;;I+study+systems+development+at+Unigrande;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Thallys+Costa;I'm+22+years+old;;I+study+systems+development+at+Unigrande;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ### Main skills:
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
